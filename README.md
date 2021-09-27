@@ -1,4 +1,4 @@
-# LuccaTube 📽
+# LuccaTube 🎥
 
 **LuccaTube** is an open-source [SyncTube](https://sync-tube.de/) clone, powered by Node.js and the [ws](https://www.npmjs.com/package/ws) Websockets framework.
 
