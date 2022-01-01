@@ -1,12 +1,14 @@
 {
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "ws": "^8.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon"
   }
 }
